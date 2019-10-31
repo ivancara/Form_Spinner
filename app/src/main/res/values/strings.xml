@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">EX_001_Form</string>
+    <string name="tv_nome">Nome</string>
+    <string name="tv_idade">Idade</string>
+    <string name="rb_masculino">Masculino</string>
+    <string name="rb_feminino">Feminino</string>
+    <string name="tv_cidade">Cidade</string>
+    <string name="btn_ler_dados">Ler Dados</string>
+    <string name="tv_sexo">Sexo</string>
+
+    <!--Erros-->
+    <string name="err_nome">Nome não preenchido</string>
+    <string name="err_idade">Idade não preenchida</string>
+    <string name="err_idadeValida">Idade inválida</string>
+    <string name="err_cidade">Cidade não preenchida</string>
+    <string name="err_sexo">Sexo não preenchido</string>
+</resources>
